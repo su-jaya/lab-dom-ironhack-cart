@@ -34,8 +34,28 @@ input {
     color: #fff;
     background-color: #CF000F;
     border-color: #CF000F;
+
 }
 
 .quantity {
   margin: 0 5px;
+  float: left;
+}
+
+
+.productName {
+
+  float: left;
+}
+
+.productCost {
+  float: left
+}
+
+.delete {
+  float:left;
+}
+
+.calculatePrice {
+  clear:both;
 }

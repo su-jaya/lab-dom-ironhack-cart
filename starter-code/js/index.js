@@ -1,3 +1,7 @@
+
+
+
+
 function deleteItem(e){
 
 }
@@ -11,6 +15,14 @@ function updatePriceByProduct(productPrice, index){
 }
 
 function getTotalPrice() {
+
+  btn-success.onclick = function() {
+    var total = document.querySelectorAll.totalPrice * document.querySelectorAll.quantity;
+return total
+
+  }
+
+  totalPrice.innerHTML = total;
 
 }
 
